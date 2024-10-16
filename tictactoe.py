@@ -6,6 +6,9 @@
 # switch the player again
 # check for win or tie again
 
+# -----------------------------------------------------
+# after having working implementation when computer chooses randomly I will try to make it
+# unbeatable using the minimax strategy
 import random
 board = ["-","-","-"
          ,"-","-","-"
